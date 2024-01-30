@@ -1,10 +1,10 @@
 
-  # locofy-react-project
+ # Figma to React Conversion
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+Convert Figma designs to React components seamlessly.
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
+## Overview
+
+This project automates the process of converting Figma design files into React components. It simplifies the development workflow by generating React code from Figma designs, allowing for efficient implementation and collaboration between designers and developers.
+
   
